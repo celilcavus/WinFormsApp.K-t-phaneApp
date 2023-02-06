@@ -1,0 +1,140 @@
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.exe
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.deps.json
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.runtimeconfig.json
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Dapper.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\01.DatabasebEntity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\02.DatabaseModel.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\03.HelperClass.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\02.DatabaseModel.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\03.HelperClass.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\01.DatabasebEntity.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.csproj.AssemblyReference.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.HomePage.FrmHomePage.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.HomePage.FrmLogin.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmKitapHareket.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmKitapHareketKitapAra.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmKitapIslemleri.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmOgrenci.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmYayinEviIslemleri.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmYazarIslemleri.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.PageDetails.FrmOgrenciDetaylari.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Properties.Resources.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.csproj.GenerateResource.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.AssemblyInfoInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.AssemblyInfo.cs
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.csproj.CoreCompileInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.csproj.CopyComplete
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\refint\WinFormsApp.KütüphaneApp.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.genruntimeconfig.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\ref\WinFormsApp.KütüphaneApp.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.exe
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.deps.json
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.runtimeconfig.json
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Dapper.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\01.DatabasebEntity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\02.DatabaseModel.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\03.HelperClass.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\02.DatabaseModel.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\03.HelperClass.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\bin\Debug\net6.0-windows\01.DatabasebEntity.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.csproj.AssemblyReference.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.HomePage.FrmHomePage.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.HomePage.FrmLogin.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmKitapHareket.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmKitapHareketKitapAra.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmKitapIslemleri.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmOgrenci.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmYayinEviIslemleri.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.FrmYazarIslemleri.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Pages.PageDetails.FrmOgrenciDetaylari.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.Properties.Resources.resources
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.csproj.GenerateResource.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.AssemblyInfoInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.AssemblyInfo.cs
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.csproj.CoreCompileInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.csproj.CopyComplete
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\refint\WinFormsApp.KütüphaneApp.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\WinFormsApp.KütüphaneApp.genruntimeconfig.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\WinFormsApp.KütüphaneApp\obj\Debug\net6.0-windows\ref\WinFormsApp.KütüphaneApp.dll
