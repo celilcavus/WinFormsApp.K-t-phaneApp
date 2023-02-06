@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\02.DatabaseModel\\02.DatabaseModel.csproj": {}
+  },
+  "projects": {
+    "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\01.DatabasebEntity\\01.DatabasebEntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\01.DatabasebEntity\\01.DatabasebEntity.csproj",
+        "projectName": "01.DatabasebEntity",
+        "projectPath": "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\01.DatabasebEntity\\01.DatabasebEntity.csproj",
+        "packagesPath": "C:\\Users\\celil\\.nuget\\packages\\",
+        "outputPath": "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\01.DatabasebEntity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\celil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\02.DatabaseModel\\02.DatabaseModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\02.DatabaseModel\\02.DatabaseModel.csproj",
+        "projectName": "02.DatabaseModel",
+        "projectPath": "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\02.DatabaseModel\\02.DatabaseModel.csproj",
+        "packagesPath": "C:\\Users\\celil\\.nuget\\packages\\",
+        "outputPath": "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\02.DatabaseModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\celil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\01.DatabasebEntity\\01.DatabasebEntity.csproj": {
+                "projectPath": "D:\\Software\\WinForm\\WinFormsApp.KütüphaneApp - Kopya\\01.DatabasebEntity\\01.DatabasebEntity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

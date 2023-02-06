@@ -1,0 +1,24 @@
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\bin\Debug\net6.0\03.HelperClass.deps.json
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\bin\Debug\net6.0\03.HelperClass.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\bin\Debug\net6.0\03.HelperClass.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\obj\Debug\net6.0\03.HelperClass.csproj.AssemblyReference.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\obj\Debug\net6.0\03.HelperClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\obj\Debug\net6.0\03.HelperClass.AssemblyInfoInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\obj\Debug\net6.0\03.HelperClass.AssemblyInfo.cs
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\obj\Debug\net6.0\03.HelperClass.csproj.CoreCompileInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\obj\Debug\net6.0\03.HelperClass.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\obj\Debug\net6.0\refint\03.HelperClass.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\obj\Debug\net6.0\03.HelperClass.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\03.HelperClass\obj\Debug\net6.0\ref\03.HelperClass.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\bin\Debug\net6.0\03.HelperClass.deps.json
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\bin\Debug\net6.0\03.HelperClass.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\bin\Debug\net6.0\03.HelperClass.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\obj\Debug\net6.0\03.HelperClass.csproj.AssemblyReference.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\obj\Debug\net6.0\03.HelperClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\obj\Debug\net6.0\03.HelperClass.AssemblyInfoInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\obj\Debug\net6.0\03.HelperClass.AssemblyInfo.cs
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\obj\Debug\net6.0\03.HelperClass.csproj.CoreCompileInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\obj\Debug\net6.0\03.HelperClass.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\obj\Debug\net6.0\refint\03.HelperClass.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\obj\Debug\net6.0\03.HelperClass.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\03.HelperClass\obj\Debug\net6.0\ref\03.HelperClass.dll

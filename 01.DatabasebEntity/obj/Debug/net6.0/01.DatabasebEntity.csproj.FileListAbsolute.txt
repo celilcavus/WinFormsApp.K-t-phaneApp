@@ -1,0 +1,24 @@
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\bin\Debug\net6.0\01.DatabasebEntity.deps.json
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\bin\Debug\net6.0\01.DatabasebEntity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\bin\Debug\net6.0\01.DatabasebEntity.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.csproj.AssemblyReference.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.AssemblyInfoInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.AssemblyInfo.cs
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.csproj.CoreCompileInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\obj\Debug\net6.0\refint\01.DatabasebEntity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp\01.DatabasebEntity\obj\Debug\net6.0\ref\01.DatabasebEntity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\bin\Debug\net6.0\01.DatabasebEntity.deps.json
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\bin\Debug\net6.0\01.DatabasebEntity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\bin\Debug\net6.0\01.DatabasebEntity.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.csproj.AssemblyReference.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.AssemblyInfoInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.AssemblyInfo.cs
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.csproj.CoreCompileInputs.cache
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\obj\Debug\net6.0\refint\01.DatabasebEntity.dll
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\obj\Debug\net6.0\01.DatabasebEntity.pdb
+D:\Software\WinForm\WinFormsApp.KütüphaneApp - Kopya\01.DatabasebEntity\obj\Debug\net6.0\ref\01.DatabasebEntity.dll
